@@ -1,1 +1,2 @@
-# Calculator_Mobile_App
+#This the Calculator Flutter project 
+which perform all functionality of the calculator 
